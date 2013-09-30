@@ -1,3 +1,3 @@
-Exercise02
-paired with Jennie
-Hackbright provided calculator.py and we coded arithmetic.py
+Exercise02\n
+paired with Jennie\n
+Hackbright provided calculator.py and we coded arithmetic.py\n
