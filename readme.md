@@ -1,3 +1,3 @@
-Exercise02,
+Exercise02 and Exercise03,
 paired with Jennie,
-Hackbright provided calculator.py and we coded arithmetic.
+built a basic prefix calculator
